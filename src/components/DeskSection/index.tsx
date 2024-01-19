@@ -14,7 +14,7 @@ const DeskSection = () => {
             </svg>
 
             <p className='text-secondary mb-[21px]'>+15 ANOS TRABALHANDO EM SOLUÇÕES JURÍDICAS</p>
-            <div className='text-black text-[16px] font-light w-[630px] h-[180px]'>
+            <div className='text-black text-[16px] font-light w-[630px] h-[180px] overflow-y-hidden line-'>
                 <p className='mb-4'>
                 Diante dos desafios impostos pelos novos tempos e da necessidade de uma atuação contextualizada, integramos à nossa abordagem a experiência acumulada ao longo de mais de 25 anos de prática profissional
                 </p>

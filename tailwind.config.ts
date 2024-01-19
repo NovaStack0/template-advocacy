@@ -15,7 +15,8 @@ const config: Config = {
       },
       colors :{
         'primary': '#EFBB1F',
-        'secondary': '#154759'
+        'secondary': '#154759',
+        'bg-secondary': 'rgba(217, 217, 217, 0.36)',
       }
     },
   },
