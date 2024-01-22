@@ -17,6 +17,7 @@ const config: Config = {
         'primary': '#EFBB1F',
         'secondary': '#154759',
         'bg-secondary': 'rgba(217, 217, 217, 0.36)',
+        'input': '#F5F5F5'
       }
     },
   },
