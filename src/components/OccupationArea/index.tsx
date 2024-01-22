@@ -27,7 +27,7 @@ const OccupationArea = () => {
                 </div>  
             </div>
         </section>
-        <div className="h-screen flex">
+        <div className="w-screen flex">
             <div className="h-1 bg-primary w-1/2" />
             <div className="h-1 bg-secondary w-1/2" />
         </div>
